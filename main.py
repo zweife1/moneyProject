@@ -6,6 +6,9 @@ import numpy
 import pandas
 import matplotlib
 
-print("que guey")
+chris = "que guey"
+
+print(chris)
 print("\nello wurld")
+
 
